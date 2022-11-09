@@ -1,12 +1,7 @@
----
-title: Ângulo entre vetores
-subtitle: Uma consequência da desigualdade de Cauchy-Schwarz
-author:
- - Ycaro César Albano Martins
-date: 2022-11-08
----
 
-
+# <p align="center">Ângulo entre vetores<p>
+## <p align="center">Uma consequência da desigualdade de Cauchy-Schwarz<p>
+##### <p align="center">Autor: Ycaro César Albano Martins<p>
 
 
 
@@ -50,8 +45,8 @@ $$\|\vec{x}\| = \sqrt{\left<\vec{x},\vec{x}\right>} = \sqrt{{x_{1}}^2 + {x_{2}}^
 
 3.  $\|\vec{x}\| \geq 0$, com $\|\vec{x}\|=0 \Leftrightarrow \vec{x}=0$.
 
-### **Teorema(Desigualdade de Cauchy-Schwarz):** Sejam
-$\vec{x},\vec{y} \in {\mathbb{R}}^n$, então
+### **Teorema(Desigualdade de Cauchy-Schwarz):** 
+Sejam $\vec{x},\vec{y} \in {\mathbb{R}}^n$, então
 $\left<\vec{x},\vec{y}\right>^2 \leq \|\vec{x}\|^2 \|\vec{y}\|^2$. A
 igualdade é válida se, e somente se, $\vec{x}$ e $\vec{y}$ são
 múltiplos.
